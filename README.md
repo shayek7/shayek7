@@ -7,10 +7,10 @@ Have a good understanding of Linux Server, Firewall, Reverse Proxy, Load Balance
 Focused on providing the best solution for the development team as well as the business and the customers.  
 
 **Skills:**  
-- **Languages:** Shell Scripting(Bash), javascript/typescript  
-- **Stack:** Mongodb, Express, React, Node  
+- **Languages:**  Shell Scripting(Bash), javascript/typescript  
+- **Stack:**  Mongodb, Express, React, Node  
 - **Web Server:** Nginx  
-- **System Administration:** RHEL/Rocky, Ubuntu/Debian  
+- **System Administration:**  RHEL/Rocky, Ubuntu/Debian  
 - **Configuration Management:** Ansible  
 - **DevOps Toolchain:** Git, Docker,GitHub  
 - **Cloud Platform:** DigitalOcean  
