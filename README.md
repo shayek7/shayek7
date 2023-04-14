@@ -12,7 +12,7 @@ Focused on providing the best solution for the development team as well as the b
 - **Web Server:** Nginx  
 - **System Administration:**  RHEL/Rocky, Ubuntu/Debian  
 - **Configuration Management:** Ansible  
-- **DevOps Toolchain:** Git, Docker,GitHub  
+- **DevOps Toolchain:** Git, Docker, GitHub  
 - **Cloud Platform:** DigitalOcean  
 
 **Education:**  
