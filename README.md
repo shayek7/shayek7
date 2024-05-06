@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-I'm **Shayek** a skilled full-stack engineer from **Dhaka** who loves to solve real world problems.I'm a skilled server operation engineer
-who loves to solve real world problems.
+I'm **Shayek** a skilled DevOps engineer from **Dhaka** who loves to solve real world problems.
 I have keen interest in operation
 engineering, server administration and
 automation. I always follow coding best
