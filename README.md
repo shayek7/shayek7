@@ -16,8 +16,7 @@ slow and steady, and give my best in
 every work I do.  
 
 **Skills:**  
-- **Languages:**  Shell Scripting (Bash), JavaScript/TypeScript  
-- **Stack:**  Mongodb, Express, React, Node  
+- **Languages:**  Shell Scripting (Bash), Python 
 - **Web Server:** Nginx  
 - **System Administration:**  RHEL/Rocky, Ubuntu/Debian  
 - **Configuration Management:** Ansible  
