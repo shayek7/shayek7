@@ -10,7 +10,3 @@ from **Dhaka** who loves to solve real world problems.
 - **Configuration Management:** Ansible  
 - **DevOps Toolchain:** Git, Docker, GitHub  
 - **Cloud Platform:** DigitalOcean  
-
-**Education:**  
-BSc in Computer Science and Engineering,          
-International University of Business Agriculture and Technology, Dhaka.
